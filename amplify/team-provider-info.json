@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aboczekfss4cognito-dev-211215-authRole",
+      "UnauthRoleArn": "arn:aws:iam::063010046250:role/amplify-aboczekfss4cognito-dev-211215-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::063010046250:role/amplify-aboczekfss4cognito-dev-211215-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-aboczekfss4cognito-dev-211215-deployment",
+      "UnauthRoleName": "amplify-aboczekfss4cognito-dev-211215-unauthRole",
+      "StackName": "amplify-aboczekfss4cognito-dev-211215",
+      "StackId": "arn:aws:cloudformation:eu-central-1:063010046250:stack/amplify-aboczekfss4cognito-dev-211215/c0006960-7c5c-11eb-82f3-02f0264d505c",
+      "AmplifyAppId": "d3loj4j294lpoc"
+    }
+  }
+}
