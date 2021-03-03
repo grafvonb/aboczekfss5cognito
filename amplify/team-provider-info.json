@@ -10,6 +10,11 @@
       "StackName": "amplify-aboczekfss4cognito-dev-211215",
       "StackId": "arn:aws:cloudformation:eu-central-1:063010046250:stack/amplify-aboczekfss4cognito-dev-211215/c0006960-7c5c-11eb-82f3-02f0264d505c",
       "AmplifyAppId": "d3loj4j294lpoc"
+    },
+    "categories": {
+      "auth": {
+        "aboczekfss4cognitoe45b4308": {}
+      }
     }
   }
 }

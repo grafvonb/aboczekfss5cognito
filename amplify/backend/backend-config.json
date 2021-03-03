@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "aboczekfss4cognitoe45b4308": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
