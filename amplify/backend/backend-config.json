@@ -1,17 +1,10 @@
 {
   "auth": {
-    "aboczekfss4cognitoe45b4308": {
+    "aboczekfss5cognito60b6f630": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
       "customAuth": false
-    }
-  },
-  "hosting": {
-    "amplifyhosting": {
-      "service": "amplifyhosting",
-      "providerPlugin": "awscloudformation",
-      "type": "manual"
     }
   }
 }

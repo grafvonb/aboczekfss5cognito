@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "aboczekfss4cognitoe45b4308_identitypool_e45b4308",
+    "identityPoolName": "aboczekfss5cognito60b6f630_identitypool_60b6f630",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "aboczee45b4308",
-    "userPoolName": "aboczekfss4cognitoe45b4308_userpool_e45b4308",
+    "resourceNameTruncated": "abocze60b6f630",
+    "userPoolName": "aboczekfss5cognito60b6f630_userpool_60b6f630",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -28,10 +28,10 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "aboczee45b4308_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "abocze60b6f630_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "e45b4308",
-    "resourceName": "aboczekfss4cognitoe45b4308",
+    "sharedId": "60b6f630",
+    "resourceName": "aboczekfss5cognito60b6f630",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
