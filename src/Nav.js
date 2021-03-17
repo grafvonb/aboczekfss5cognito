@@ -1,28 +1,28 @@
 import React from "react";
-import {Menu} from "antd";
-import {Link} from "react-router-dom";
+import { Menu } from "antd";
+import { Link } from "react-router-dom";
 import {
     FileProtectOutlined,
     HomeOutlined,
     ProfileOutlined
 } from "@ant-design/icons";
 
-export const Nav = ({current}) => (
+export const Nav = ({ current }) => (
     <div>
         <Menu selectedKeys={[current]} mode="horizontal">
             <Menu.Item key='home'>
                 <Link to={`/`}>
-                    <HomeOutlined/>Home
+                    <HomeOutlined />Home
                 </Link>
             </Menu.Item>
             <Menu.Item key='profile'>
-                <Link to='/profile'>
-                    <ProfileOutlined/>Profile
+                <Link to='/profile' replace>
+                    <ProfileOutlined />Profile
                 </Link>
             </Menu.Item>
-            <Menu.Item key='protected'>
+            <Menu.Item key='protected' replace>
                 <Link to='/protected'>
-                    <FileProtectOutlined/>Protected
+                    <FileProtectOutlined />Protected
                 </Link>
             </Menu.Item>
         </Menu>
